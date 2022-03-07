@@ -1186,12 +1186,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  display: none;
-}
-@media (max-width: 768px) {
-  .cid-sZlemdwLhR .embla__button {
-    display: none;
-  }
 }
 .cid-sZlemdwLhR .embla__button:disabled {
   cursor: default;
